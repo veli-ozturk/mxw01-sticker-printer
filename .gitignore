@@ -1,0 +1,7 @@
+*.exe
+*.spec
+build/
+dist/
+__pycache__/
+c9_sina.txt
+stickerlar/
